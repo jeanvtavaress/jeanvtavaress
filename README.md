@@ -1,6 +1,6 @@
 ### Hello, I'm Jean Victor 😄
 
-- 👨‍🎓 Information System student.
+- 👨‍🎓 Software Engineering student.
 - 🌱 Currently studying javascript.
 - 🖥️ Future web developer.
 - 🔎 Looking for web development internship.
